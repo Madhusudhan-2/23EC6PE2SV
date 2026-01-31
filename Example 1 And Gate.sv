@@ -1,4 +1,13 @@
-// Code your design here
+//------------------------------------------------------------------------------
+//File       : AND_GATE.sv
+//Author     : Krishna Gupta/1BM23EC123
+//Created    : 2026-01-28
+//Module     : AND_GATE
+//Project    : SystemVerilog and Verification (23EC6PE2SV),
+//Faculty    : Prof. Ajaykumar Devarapalli
+//Description: Basic AND Gate functional Coverage
+//------------------------------------------------------------------------------
+
 module tb;
    logic a, b, y;
    and_gate dut(.*);
