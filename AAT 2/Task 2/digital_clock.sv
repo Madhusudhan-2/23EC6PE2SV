@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
 //File       : digital_clock.sv
-//Author     : Pavan Pai/1BM23EC179
+//Author     : Madhusudhan C/1BM23EC134
 //Created    : 2026-02-10
 //Module     : digital_clock
 //Project    : SystemVerilog and Verification (23EC6PE2SV),
